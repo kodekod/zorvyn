@@ -1,4 +1,4 @@
-# 💰 Financial Dashboard (Frontend Only)
+# Financial Dashboard (Frontend Only)
 
 A modern and responsive **Financial Dashboard UI** built using **React** and **Tailwind CSS**.
 This project focuses on creating a clean, interactive, and user-friendly interface for visualizing financial data.
@@ -7,8 +7,8 @@ This project focuses on creating a clean, interactive, and user-friendly interfa
 
 ##  Live Demo
 
-> Add your deployed project link here
-> Example: https://your-project-link.com
+link 
+https://vercel.com/sekhma/zorvyn
 
 ---
 
@@ -109,17 +109,17 @@ npm run dev
 
 ---
 
-## 🙋 Author
+##  Author
 
 **Javed Ansari**
-📧 [javed256@gmail.com](mailto:javed256@gmail.com)
-💼 Aspiring Full Stack Developer
+javed956570@gmail.com
+Aspiring Full Stack Developer
 
 ---
 
 ##  Support
 
-If you like this project, give it a ⭐ on GitHub.
+If you like this project, give it a on GitHub.
 
 ---
 
